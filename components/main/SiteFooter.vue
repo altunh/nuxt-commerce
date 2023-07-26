@@ -3,6 +3,8 @@
     <div class="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-5 md:px-0">
       <LogoIcon class="w-8 h-8 fill-indigo-500" />
       <p class="font-sans text-center text-sm leading-loose md:text-left">
+        Nuxt Commerce.
+        {{ ' ' }}
         Built by
         {{ ' ' }}
         <a
